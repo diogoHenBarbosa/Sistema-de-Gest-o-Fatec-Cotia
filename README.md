@@ -1,5 +1,5 @@
 # Desenvolvimento de Software Multiplataforma 
-## _Criação de um ERP para uma ME _
+## _Criação de um ERP para uma ME_
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
