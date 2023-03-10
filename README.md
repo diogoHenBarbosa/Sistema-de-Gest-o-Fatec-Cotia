@@ -40,7 +40,7 @@ Um breve disclamer, somos alunos do II semestre da Fatec de Cotia, onde devemos 
     
 #### 2.3 - Metodologia 
 
-> Para facilitar a comunicação e a discussão de ideias, caminhos e métodos de desenvolvimento do ERP, utilizamos as seguintes ferramentas como o Microsoft Teams,  para manter a organização das reuniões e tarefas pendentes. Adotamos o Trello, que foi dividido em categorias como tarefas, pendentes, em andamento, revisão e concluídas. 
+> Para facilitar a comunicação e a discussão de ideias, caminhos e métodos de desenvolvimento do ERP, utilizamos as seguintes ferramentas como o Microsoft Teams,  para manter a organização das reuniões e tarefas pendentes. Adotamos o Trello, que foi dividido em categorias como tarefas pendentes, em andamento, revisão e concluídas. 
 
 > O site Github foi utilizado para armazenar e documentar todo o processo de desenvolvimento do ERP, além de gerenciar o código, garantindo a organização durante todo o processo. 
 
