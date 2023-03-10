@@ -19,7 +19,7 @@ Um breve disclamer, somos alunos do II semestre da Fatec de Cotia, onde devemos 
     --------- | ------
     Diogo Henrique Barbosa | *********3002
     Felipe Feitosa Braga  | *********3043
-----
+
 
 ### 2 - Sobre o Trabalho
 ----
