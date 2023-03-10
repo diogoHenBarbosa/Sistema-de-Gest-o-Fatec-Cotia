@@ -22,8 +22,10 @@ Um breve disclamer, somos alunos do II semestre da Fatec de Cotia, onde devemos 
 ----
 
 ### 2 - Sobre o Trabalho
+----
+
 #### 2.1 - Motivação ?
----
+
 > Optamos por criar o ERP, para uma empresa familiar por meio de um processo de brainstorming,  acabamos por escolher está ideia.  
 
 > Nossa decisão foi pensando em está ajudando a realizar a automatização de processos manuias, criando um sistema de gerenciamento de uma pequena mercearia, com o objetivo de tornar os processos comos de cadastro de produtos, entrada e saida de mercadoria, vendas e fechamentos de caixa mais ráṕidos. Assim facilitantando os processos e gerando mais valor para empresa. 
