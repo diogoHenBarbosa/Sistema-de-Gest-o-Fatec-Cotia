@@ -1,4 +1,4 @@
-#Fatec Cotia - Desenvolvimento de Software Multiplataforma 
+# Fatec Cotia - Desenvolvimento de Software Multiplataforma 
 ## _Criação de um ERP para ME_
 
 Um breve disclamer, somos alunos do II Semestre da Fatec de Cotia, onde devemos criar um projeto para nossa máteria de Engenharia de Software II;
