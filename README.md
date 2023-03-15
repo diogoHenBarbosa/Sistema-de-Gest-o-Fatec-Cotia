@@ -72,3 +72,5 @@ Um breve disclamer, somos alunos do II semestre da Fatec de Cotia, onde devemos 
 *	Controle de caixa: Com um software, os usuários podem controlar o caixa de sua mercearia de forma mais precisa. O sistema permite que os usuários registrem as entradas e saídas de dinheiro, verifiquem o saldo do caixa e gerenciem trocos. Isso ajuda a evitar erros e garantir que o caixa esteja sempre equilibrado.
 
 > O uso de um software em uma mercearia pode oferecer aos usuários uma série de benefícios, desde gerenciamento de estoque mais eficiente até relatórios financeiros detalhados. Esses benefícios ajudam os usuários a melhorar a eficiência de sua mercearia, aumentar as vendas e a satisfação do cliente.
+
+#### 2.6 - Cronograma
