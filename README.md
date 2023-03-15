@@ -46,3 +46,29 @@ Um breve disclamer, somos alunos do II semestre da Fatec de Cotia, onde devemos 
 
 > Por meio do aplicativo Discord, realizamos Sprint's para nos manter atualizados sobre novas informações do projeto, realizar possíveis correções e tomadas de decisão. 
 
+#### 2.4 -	Desenvolvimento
+> No desenvolvimento optamos por dividir o desenvolvimento em sprints, para poder ajudar a torná-lo mais organizado e eficiente.
+
+> Durante a fase inicial do desenvolvimento, a nossa equipe definirmos os requisitos do software e dividir o trabalho em sprints. 
+
+> Cada sprint iremos abordar uma funcionalidade específica do PDV, nesse início escolhemos aborda a funcionalidade do estoque, cadastro de notas, produtos e cadastro de venda no PDV. 
+
+> Assim trabalhando em sprints, a podemos manter o foco nas metas alcançáveis. E assim também permite que a que, reavaliamos o progresso e faça ajustes no planejamento do PDV à medida que novas informações e requisitos surgem.
+
+> Com isso as sprints estão ajudando a manter um ritmo constante de trabalho e a identificar problemas ou obstáculos mais cedo. Isso permite que resolvamos esses problemas rapidamente e garanta que o projeto do PDV siga em frente de forma eficiente.
+
+> Ao final de cada sprint, a equipe pode avaliar o trabalho realizado e determinar se as metas foram alcançadas. Isso permite que a equipe faça ajustes e melhorias antes de seguir para a próxima sprint.
+
+#### 2.5 -	Resultados esperados 
+> Nossa equipe espera atender as expectativas do usuário com o software, automatizando os processos administrativos do estabelecimento. 
+
+*	Gerenciamento de estoque: que os usuários podem gerenciar o estoque de sua mercearia de forma mais eficiente. O sistema permite que os usuários monitorem os níveis de estoque e programem pedidos de reposição de estoque de forma mais eficiente. Isso ajudará a evitar a falta de produtos e a garantir que os clientes encontrem o que precisam.
+
+*	Agilidade no atendimento: que os usuários podem registrar as vendas de forma mais rápida e precisa. O sistema permite que os usuários escaneiem códigos de barras, calculem preços automaticamente. Isso ajuda a reduzir o tempo de espera dos clientes na fila e aumentar a satisfação do cliente.
+
+
+*   Relatórios financeiros: que os usuários podem gerar relatórios financeiros detalhados sobre as vendas diárias, semanais e mensais. Esses relatórios ajudam os usuários a monitorar o desempenho de sua mercearia e a identificar oportunidades de melhorias.
+
+*	Controle de caixa: Com um software, os usuários podem controlar o caixa de sua mercearia de forma mais precisa. O sistema permite que os usuários registrem as entradas e saídas de dinheiro, verifiquem o saldo do caixa e gerenciem trocos. Isso ajuda a evitar erros e garantir que o caixa esteja sempre equilibrado.
+
+> O uso de um software em uma mercearia pode oferecer aos usuários uma série de benefícios, desde gerenciamento de estoque mais eficiente até relatórios financeiros detalhados. Esses benefícios ajudam os usuários a melhorar a eficiência de sua mercearia, aumentar as vendas e a satisfação do cliente.
